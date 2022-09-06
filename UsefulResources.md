@@ -5,3 +5,6 @@
   - https://www.youtube.com/watch?v=SkgkIXZ_13Y
 
 
+# Level Design
+- Bubble Diagrams - Planning for Level Design
+  - https://www.youtube.com/watch?v=h-r6RFK8I7k 
