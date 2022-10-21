@@ -16,6 +16,7 @@
 - Unexplored’s Secret: ‘Cyclic Dungeon Generation’
   - https://www.youtube.com/watch?v=LRp9vLk7amg
   - https://www.aiandgames.com/2021/01/28/unexploreds-secret-cyclic-dungeon-generation/
+  - https://www.boristhebrave.com/2021/04/10/dungeon-generation-in-unexplored/
 - IRDC 2014 - Roguey-Locks and the Three Graphs
   - https://www.youtube.com/watch?v=uP3horC38IE 
 - Procedurally Generated 3D Dungeons
