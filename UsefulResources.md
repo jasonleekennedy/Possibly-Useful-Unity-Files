@@ -20,4 +20,6 @@
   - https://www.youtube.com/watch?v=uP3horC38IE 
 - Procedurally Generated 3D Dungeons
   - https://www.youtube.com/watch?v=rBY2Dzej03A
-  - 
+- Metazelda
+  - https://bytten-studio.com/devlog//2012/11/30/lock-and-key-puzzle-generation/
+  - https://github.com/tcoxon/metazelda  
